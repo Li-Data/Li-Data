@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Li-Data
 - 👀 I’m interested in transitioning from being a data analyst to a data scientist 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m proficient in Excel, SQL, Python and Power BI
 - 💞️ I’m looking to collaborate on Data analytics related projects 
 - 📫 How to reach me lisulolilato@gmail.com 
 - ⚡ Fun fact: I'm obsessed with snakes 
