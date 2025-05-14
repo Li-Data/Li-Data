@@ -18,7 +18,7 @@ This project involves analyzing sales, inventory, and customer data for an offic
 ## Dataset Information
 
 The dataset includes:
-- Sales data for toys across **400 locations** and **50 states**
+- Sales data for office supplies across **400 locations** and **50 states**
 - Sales records of various office supplies, formatted and cleaned for processing and visualization.
 
 ---
