@@ -11,7 +11,6 @@ Welcome to my GitHub! I’m passionate about using data to uncover insights, aut
 - 📈 Develop interactive dashboards (Power BI Certified — PL-300)
 - 🧠 Model financial deals (IRR, NPV, amortization, waterfall structures)
 - 🛠️ Create internal tools (asset tracking, ticketing, custom reports)
-- 🚚 Run logistics and microfinance businesses on the side
 
 ## 🧰 Tools & Tech I Use
 
